@@ -73,9 +73,11 @@ li{
 }
 .container{
   display: flex;
+  /*flex-direction: column;*/
   height: calc(100vh - 141px);
+  /*padding-bottom: 20px;*/
 }
-.bm-sider{
+.bm-side{
   flex: 0 0 280px;
   background: #d7d9e3;
   padding-top:40px;

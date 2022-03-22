@@ -76,3 +76,4 @@ More information about the usage of this directory in [the documentation](https:
 + store数据管理
 + 路由守卫
 + 路由传参
+  在nuxt中定义带参数的动态路由，需要创建对应的以下划线为前缀的vue文件或目录，见代码中pages的index.vue->blogs的_blog.vue
