@@ -66,3 +66,13 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+## 项目目标
+
++ SEO优化（meta/sitemap)
++ 路由鉴权
++ 首屏加载时间优化
++ store数据管理
++ 路由守卫
++ 路由传参
